@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_2DTransformations", "WinForms_2DTransformations.csproj", "{11D09C6E-78A1-4182-A4FA-E1080C95708C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D09C6E-78A1-4182-A4FA-E1080C95708C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D09C6E-78A1-4182-A4FA-E1080C95708C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D09C6E-78A1-4182-A4FA-E1080C95708C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D09C6E-78A1-4182-A4FA-E1080C95708C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
